@@ -25,18 +25,18 @@ Currently focusing on **React, Node.js, and Cloud Architecture**.
 ---
 
 ### 📊 GitHub Analytics:
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhCodes007&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhCodes007&layout=compact&langs_count=7&theme=radical" />
 
 ---
 
 ### 🐍 Contribution Activity:
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShubhCodes007/ShubhCodes007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
 ### 🤝 Connect with me:
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shubham-dhole-6b475b1b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
 </div>

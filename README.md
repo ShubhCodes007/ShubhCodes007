@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shubham Dhole 👋
 ### Full Stack Developer | Open Source Enthusiast | Tech Explorer
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=40" width="100%" />
